@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/parallex-react/static/css/main.401c5fde.chunk.css",
+    "main.js": "/parallex-react/static/js/main.cf76c131.chunk.js",
+    "main.js.map": "/parallex-react/static/js/main.cf76c131.chunk.js.map",
+    "runtime-main.js": "/parallex-react/static/js/runtime-main.09afb143.js",
+    "runtime-main.js.map": "/parallex-react/static/js/runtime-main.09afb143.js.map",
+    "static/js/2.c274187f.chunk.js": "/parallex-react/static/js/2.c274187f.chunk.js",
+    "static/js/2.c274187f.chunk.js.map": "/parallex-react/static/js/2.c274187f.chunk.js.map",
+    "index.html": "/parallex-react/index.html",
+    "static/css/main.401c5fde.chunk.css.map": "/parallex-react/static/css/main.401c5fde.chunk.css.map",
+    "static/js/2.c274187f.chunk.js.LICENSE.txt": "/parallex-react/static/js/2.c274187f.chunk.js.LICENSE.txt",
+    "static/media/Style.css": "/parallex-react/static/media/img3.f525a223.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09afb143.js",
+    "static/js/2.c274187f.chunk.js",
+    "static/css/main.401c5fde.chunk.css",
+    "static/js/main.cf76c131.chunk.js"
+  ]
+}
